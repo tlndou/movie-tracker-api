@@ -1,0 +1,11 @@
+### get all users
+GET http://localhost:5000/users
+
+### get all movies
+GET http://localhost:5000/movies
+
+### get one user
+GET http://localhost:5000/users/1
+
+### get one movie
+GET http://localhost:5000/movies/1
